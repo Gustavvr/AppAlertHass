@@ -1,0 +1,7 @@
+hs.loadSpoon('AppAlertHass')
+-- Leave below unset to send all app states
+-- spoon.AppAlertHass.appWatch  = "zoom.us"
+-- spoon.AppAlertHass.debug = true
+spoon.AppAlertHass.URL       = 'http://homeassistant.local:8123/api/events/hs_app_event'
+spoon.AppAlertHass.bearer_token = "111111111111111111111111111112222222222222222222222222233333333333333333333333344444444444444444444444444455555555555555555555555566666666666666666666666666667777777777777777777777777"
+spoon.AppAlertHass:start()
