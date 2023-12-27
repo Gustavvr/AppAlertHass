@@ -17,8 +17,9 @@ spoon.AppAlertHass:start()
 ```
 * save the above
 * clcik the hammerspoon icon in the title bar again and click "Reload Config"
-
-Notes: that -- is a comment in lua. so the above line with -- will not be processed. If the -- is removed from the line with
+---
+## Notes:
+2 hyphens `--` is a comment in lua. so the above line with -- will not be processed. If the -- is removed from the line with
 ```
 spoon.AppAlertHass.appWatch  = "zoom.us"
 ```
