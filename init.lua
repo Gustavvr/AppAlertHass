@@ -7,7 +7,7 @@ obj.__index = obj
 obj.name = "AppAlertHass"
 obj.version = "0.1"
 obj.author = "Gustav von Roth <gustav@vonRoth.com>"
-obj.homepage = "https://github.com/gvonroth/hammerspoon-AppAlertHass"
+obj.homepage = "https://github.com/gvonroth/AppAlertHass.spoon"
 obj.license = "MIT - https://opensource.org/licenses/MIT"
 
 -- Set Defaults
