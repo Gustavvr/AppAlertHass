@@ -1,7 +1,6 @@
 print('Starting AppAlertHass...')
 
-local :w
-obj = {}
+local obj = {}
 obj.__index = obj
 
 -- Metadata
